@@ -13,8 +13,6 @@ With the Generic Event block, you can set when an event will take place.
 
 For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”. 
 
-For example, in the picture below, any button you click on the screen will change the text of Label1 to be “Thunking Is Fun!”.
-
 ![](.gitbook/assets/generic-block.png)
 
 ## **Using the Generic Event Block**
